@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T13:02:09.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="kFeIQMiF0JfV6xLC7GAe" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T13:16:50.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iWA5U8ihtevDUpup4rWf" version="24.3.1" type="github">
   <diagram name="Trang-1" id="qG2vo-x41xn1n1O5D1YS">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mDxJx2ab_9PgHtvPNS7f-1" value="Nhap vao 1 so nguyen n. in ra ket qua binh phunog cua n" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mDxJx2ab_9PgHtvPNS7f-2" value="start&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mDxJx2ab_9PgHtvPNS7f-3" value="Input n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
